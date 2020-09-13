@@ -1,0 +1,13 @@
+baseURL = "https://abc.nbad.al/"
+
+theme = "hugo-bearblog"
+
+title = "Automatic Bass Chord Compendium"
+author = "Nick Badal"
+copyright = "Copyright © 2020, Nick Badal."
+languageCode = "en-us"
+
+enableRobotsTXT = true
+
+[params]
+    hideMadeWithLine = true
