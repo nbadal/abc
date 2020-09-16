@@ -1,6 +1,7 @@
 ---
-title: "Keyboard Info"
+title: "Keyboards"
 menu: "main"
+weight: 100
 ---
 # Models
 

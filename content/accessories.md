@@ -1,6 +1,7 @@
 ---
-title: "The Accessories"
+title: "Accessories"
 menu: "main"
+weight: "102"
 ---
 ## Accessories
 
