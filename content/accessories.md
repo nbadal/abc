@@ -58,3 +58,5 @@ I'll likely create a schematic for this power supply, but for now, here's some c
 ### TO-1: _Tone Cabinet_
 
 ### PC-2: _Connecting Cord_
+
+### ??-?: _Hard Case_
