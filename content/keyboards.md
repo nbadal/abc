@@ -94,3 +94,6 @@ the volume to MIN disables the arpeggio.
 
 The variation button switches to an alternate arpeggio pattern.
 
+## Solo Section 
+###### (PS-30 only)
+
