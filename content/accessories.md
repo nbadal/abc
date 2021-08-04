@@ -31,7 +31,7 @@ I'll likely create a schematic for this power supply, but for now, here's some c
  - Two TKK transformers. 240v model has different transformers with an additional tap selected by a switch.
  - Two rectifier diodes (1D2Z1+1D2C1 or S2VC)
  - The capacitors are: 
-   - one line-to-earth EMI suprression cap (PME265 or 2B473M)
+   - one line-to-earth EMI suppression cap (PME265 or 2B473M)
    - two 25v 1000µF electrolytic
    - one 16v 10µF electrolytic
    - one 100nF ceramic disc
