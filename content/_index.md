@@ -7,6 +7,6 @@ A collection of knowledge about the **Yamaha PS-\_0** series keyboards.
  - [PS-30 Players Guide](pdf/playing-30.pdf)
 
 #### Service Manuals
- - [PS-10](pdf/service-10.pdf)
- - [PS-20](pdf/service-20.pdf)
- - [PS-30](pdf/service-30.pdf) *(missing circuit and block diagram)* 
+ - [PS-10](https://github.com/nbadal/abc/releases/download/v1.0.0-service/Yamaha_PS10_Service_Manual.pdf)
+ - [PS-20](https://github.com/nbadal/abc/releases/download/v1.0.0-service/Yamaha_PS20_Service_Manual.pdf)
+ - [PS-30](https://github.com/nbadal/abc/releases/download/v1.0.0-service/Yamaha_PS30_Service_Manual.pdf)
